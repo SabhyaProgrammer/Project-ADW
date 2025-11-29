@@ -1,0 +1,97 @@
+{
+  "restaurant": [
+    {
+      "id": "r1",
+      "name": "The Golden Spoon",
+      "domain": "restaurant",
+      "features": {
+        "rating": 4.8,
+        "price": 4,
+        "distance": 12.5,
+        "ambiance": "formal",
+        "cuisine": "french"
+      },
+      "description": "High-end French cuisine with exquisite plating."
+    },
+    {
+      "id": "r2",
+      "name": "Burger Barn",
+      "domain": "restaurant",
+      "features": {
+        "rating": 4.2,
+        "price": 1,
+        "distance": 2.0,
+        "ambiance": "casual",
+        "cuisine": "american"
+      },
+      "description": "Classic burgers and fries in a relaxed setting."
+    },
+    {
+      "id": "r3",
+      "name": "Sushi Zen",
+      "domain": "restaurant",
+      "features": {
+        "rating": 4.6,
+        "price": 3,
+        "distance": 5.5,
+        "ambiance": "quiet",
+        "cuisine": "japanese"
+      },
+      "description": "Authentic sushi bar with fresh daily catch."
+    }
+  ],
+  "movie": [
+    {
+      "id": "m1",
+      "name": "Galactic Wars",
+      "domain": "movie",
+      "features": {
+        "rating": 8.5,
+        "genre_match": 0.9,
+        "year": 2023,
+        "duration": 145,
+        "genre": "sci-fi"
+      },
+      "description": "Epic space opera with stunning visuals."
+    },
+    {
+      "id": "m2",
+      "name": "Love in Paris",
+      "domain": "movie",
+      "features": {
+        "rating": 7.2,
+        "genre_match": 0.4,
+        "year": 2021,
+        "duration": 98,
+        "genre": "romance"
+      },
+      "description": "Romantic comedy set in the city of lights."
+    }
+  ],
+  "product": [
+    {
+      "id": "p1",
+      "name": "UltraPhone X",
+      "domain": "product",
+      "features": {
+        "price": 999,
+        "rating": 4.7,
+        "durability": 8,
+        "brand_reputation": 9
+      },
+      "description": "Latest flagship smartphone with top-tier camera."
+    },
+    {
+      "id": "p2",
+      "name": "BudgetCall 5",
+      "domain": "product",
+      "features": {
+        "price": 299,
+        "rating": 4.0,
+        "durability": 6,
+        "brand_reputation": 5
+      },
+      "description": "Reliable budget phone with long battery life."
+    }
+  ]
+}

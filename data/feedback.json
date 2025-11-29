@@ -1,0 +1,77 @@
+[
+  {
+    "decision_id": "216463a2-22a0-49ab-b29a-ae8798aa3f78",
+    "timestamp": "2025-11-23T23:18:33.281819",
+    "rating": 3,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "6684d317-18b0-4141-ace2-8ff9f72e7abf",
+    "timestamp": "2025-11-23T23:18:52.898070",
+    "rating": 5,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "3879e872-30a7-49ba-a47b-f901662b9f3e",
+    "timestamp": "2025-11-23T23:19:22.362497",
+    "rating": 1,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "718d3182-6de4-4b47-a780-9a780e317293",
+    "timestamp": "2025-11-23T23:19:36.131452",
+    "rating": 1,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "5e9cbc9d-d150-4fb9-b458-8b344c69d7a5",
+    "timestamp": "2025-11-23T23:19:45.490483",
+    "rating": 2,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "0eb509a5-12fe-409a-8f29-ea5a327e957e",
+    "timestamp": "2025-11-23T23:19:53.225388",
+    "rating": 1,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "723582b3-fb53-4265-ab02-8e603d240b6f",
+    "timestamp": "2025-11-23T23:34:28.310393",
+    "rating": 1,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "05169353-1778-4b4f-94d6-f77847d8a797",
+    "timestamp": "2025-11-23T23:34:37.105875",
+    "rating": 1,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "1cec3142-d210-478e-b07d-bb5c08b1193c",
+    "timestamp": "2025-11-23T23:34:42.514211",
+    "rating": 1,
+    "comment": null,
+    "corrected_choice_id": null
+  },
+  {
+    "decision_id": "a865071d-7b91-46de-9325-fa34f050563e",
+    "timestamp": "2025-11-23T23:51:53.939710",
+    "rating": 0.9,
+    "comment": null
+  },
+  {
+    "decision_id": "c243d56b-47f1-41c8-b1b1-ace975d66c93",
+    "timestamp": "2025-11-24T00:17:27.228776",
+    "rating": 0.9,
+    "comment": null
+  }
+]

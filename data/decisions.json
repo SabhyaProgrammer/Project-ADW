@@ -1,0 +1,305 @@
+[
+  {
+    "id": "216463a2-22a0-49ab-b29a-ae8798aa3f78",
+    "timestamp": "2025-11-23T23:18:17.911086",
+    "domain": "movie",
+    "selected_option_id": "m1",
+    "options_considered": [
+      "m1",
+      "m2"
+    ],
+    "reasoning": "Based on what I know about your preferences, **Galactic Wars** is the best fit. Specifically, its rating (8.5) is a strong point (weighted as important) and its duration (145) is a strong point (weighted as minor bonus). It edged out Love in Paris mainly due to better rating.",
+    "scores": {
+      "m1": 1.4830999999999999,
+      "m2": 1.3596
+    },
+    "weights_used": {
+      "rating": 0.7,
+      "genre_match": 0.9,
+      "year": 0.3,
+      "duration": 0.4
+    }
+  },
+  {
+    "id": "6684d317-18b0-4141-ace2-8ff9f72e7abf",
+    "timestamp": "2025-11-23T23:18:36.156487",
+    "domain": "restaurant",
+    "selected_option_id": "r2",
+    "options_considered": [
+      "r2",
+      "r3",
+      "r1"
+    ],
+    "reasoning": "After carefully analyzing the options, I believe **Burger Barn** is the best fit. Specifically, its rating (4.2) is a strong point (weighted as critical factor) and its price (1) is a strong point (weighted as important). It edged out Sushi Zen mainly due to better rating.",
+    "scores": {
+      "r2": 1.588666666666667,
+      "r3": 1.412923076923077,
+      "r1": 1.375037037037037
+    },
+    "weights_used": {
+      "rating": 0.8,
+      "price": 0.6,
+      "distance": 0.5,
+      "ambiance": 0.4
+    }
+  },
+  {
+    "id": "3879e872-30a7-49ba-a47b-f901662b9f3e",
+    "timestamp": "2025-11-23T23:19:10.242404",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "After carefully analyzing the options, I believe **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as important) and its durability (8) is a strong point (weighted as important). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.7518000000000001,
+      "p2": 0.6236666666666667
+    },
+    "weights_used": {
+      "price": 0.8,
+      "rating": 0.7,
+      "durability": 0.6,
+      "brand_reputation": 0.5
+    }
+  },
+  {
+    "id": "718d3182-6de4-4b47-a780-9a780e317293",
+    "timestamp": "2025-11-23T23:19:27.152083",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "Taking everything into account, the logical choice is **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as important) and its brand_reputation (9) is a strong point (weighted as important). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.6497000000000002,
+      "p2": 0.5373333333333333
+    },
+    "weights_used": {
+      "price": 0.7000000000000001,
+      "rating": 0.6,
+      "durability": 0.5,
+      "brand_reputation": 0.5
+    }
+  },
+  {
+    "id": "5e9cbc9d-d150-4fb9-b458-8b344c69d7a5",
+    "timestamp": "2025-11-23T23:19:38.499412",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "Based on what I know about your preferences, **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as important) and its brand_reputation (9) is a strong point (weighted as important). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.5476000000000001,
+      "p2": 0.45100000000000007
+    },
+    "weights_used": {
+      "price": 0.6000000000000001,
+      "rating": 0.5,
+      "durability": 0.4,
+      "brand_reputation": 0.5
+    }
+  },
+  {
+    "id": "0eb509a5-12fe-409a-8f29-ea5a327e957e",
+    "timestamp": "2025-11-23T23:19:48.405030",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "Based on what I know about your preferences, **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as important) and its brand_reputation (9) is a strong point (weighted as important). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.49605,
+      "p2": 0.40833333333333344
+    },
+    "weights_used": {
+      "price": 0.55,
+      "rating": 0.45,
+      "durability": 0.4,
+      "brand_reputation": 0.45
+    }
+  },
+  {
+    "id": "723582b3-fb53-4265-ab02-8e603d240b6f",
+    "timestamp": "2025-11-23T23:34:21.970080",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "I've weighed the pros and cons, and I recommend **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as minor bonus) and its durability (8) is a strong point (weighted as minor bonus). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.39295,
+      "p2": 0.323
+    },
+    "weights_used": {
+      "price": 0.45000000000000007,
+      "rating": 0.35,
+      "durability": 0.4,
+      "brand_reputation": 0.35
+    }
+  },
+  {
+    "id": "05169353-1778-4b4f-94d6-f77847d8a797",
+    "timestamp": "2025-11-23T23:34:30.936553",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "I've weighed the pros and cons, and I recommend **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as minor bonus) and its brand_reputation (9) is a strong point (weighted as minor bonus). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.29084999999999994,
+      "p2": 0.23666666666666666
+    },
+    "weights_used": {
+      "price": 0.3500000000000001,
+      "rating": 0.24999999999999997,
+      "durability": 0.30000000000000004,
+      "brand_reputation": 0.35
+    }
+  },
+  {
+    "id": "1cec3142-d210-478e-b07d-bb5c08b1193c",
+    "timestamp": "2025-11-23T23:34:39.532632",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "Based on what I know about your preferences, **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as minor bonus) and its brand_reputation (9) is a strong point (weighted as minor bonus). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.27375,
+      "p2": 0.22533333333333333
+    },
+    "weights_used": {
+      "price": 0.2500000000000001,
+      "rating": 0.24999999999999997,
+      "durability": 0.20000000000000004,
+      "brand_reputation": 0.24999999999999997
+    }
+  },
+  {
+    "id": "7d3c3f04-cae7-4bb2-842a-14b2bfc8d493",
+    "timestamp": "2025-11-23T23:34:45.111144",
+    "domain": "product",
+    "selected_option_id": "p1",
+    "options_considered": [
+      "p1",
+      "p2"
+    ],
+    "reasoning": "I've weighed the pros and cons, and I recommend **UltraPhone X** is the best fit. Specifically, its rating (4.7) is a strong point (weighted as minor bonus) and its durability (8) is a strong point (weighted as minor bonus). It edged out BudgetCall 5 mainly due to better rating.",
+    "scores": {
+      "p1": 0.17065,
+      "p2": 0.13999999999999999
+    },
+    "weights_used": {
+      "price": 0.1500000000000001,
+      "rating": 0.14999999999999997,
+      "durability": 0.20000000000000004,
+      "brand_reputation": 0.14999999999999997
+    }
+  },
+  {
+    "id": "a865071d-7b91-46de-9325-fa34f050563e",
+    "timestamp": "2025-11-23T23:50:05.996155",
+    "scenario_id": "scen_work_01",
+    "selected_option_id": "opt_power_through",
+    "options_considered": [
+      "opt_power_through",
+      "opt_short_break",
+      "opt_defer"
+    ],
+    "reasoning": "Context: [fatigue=0.8, deadline_pressure=0.9, time_available=low] I chose **Power Through** because productivity was weighted strongly (0.80) and stress was weighted strongly (0.50). Option **Take Short Break** was rejected due to lower overall utility score (0.96 vs 1.20).",
+    "scores": {
+      "opt_power_through": 1.2000000000000002,
+      "opt_short_break": 0.96,
+      "opt_defer": 0.54
+    },
+    "weights_used": {
+      "stress": 0.5,
+      "productivity": 0.8,
+      "health": 0.4
+    },
+    "reflection": null
+  },
+  {
+    "id": "c243d56b-47f1-41c8-b1b1-ace975d66c93",
+    "timestamp": "2025-11-24T00:17:09.339051",
+    "scenario_id": "custom_scen_3",
+    "selected_option_id": "custom_opt_0",
+    "options_considered": [
+      "custom_opt_0",
+      "custom_opt_1",
+      "custom_opt_2"
+    ],
+    "reasoning": "**Reasoning:**\n- `health` (0.9) weighted strongly by priority (0.80)\n- `productivity` (0.3) weighted strongly by priority (0.50)\n\n**Weighted Scores:**\n- Total Utility: 0.87\n\n**Constraint Check:**\n- No explicit constraints defined.\n\n**Risk Analysis:**\n- High uncertainty (0.4) detected.\n- Strategy: Preference for robust/conservative options.\n\n**Confidence Level:** 0.54",
+    "scores": {
+      "custom_opt_0": 0.8700000000000001,
+      "custom_opt_1": 0.7200000000000001,
+      "custom_opt_2": 0.6400000000000001
+    },
+    "weights_used": {
+      "productivity": 0.5,
+      "health": 0.8
+    },
+    "reflection": null
+  },
+  {
+    "id": "f8cd69a5-e559-4d1c-a31f-a622d27a6783",
+    "timestamp": "2025-11-30T00:27:48.211980",
+    "scenario_id": "scen_work_01",
+    "selected_option_id": "opt_power_through",
+    "options_considered": [
+      "opt_power_through",
+      "opt_short_break",
+      "opt_defer"
+    ],
+    "reasoning": "**Decision Driver:** The choice was primarily driven by **Logical Coherence** (Score: 0.71).\n\n**Cognitive Dimensions Analysis:**\n- **Logical Coherence** (25%): 0.71 / 1.0\n- **Adaptivity** (20%): 0.65 / 1.0\n- **Transparency** (20%): 0.70 / 1.0\n- **Innovation** (20%): 0.68 / 1.0\n- **Ethical Awareness** (15%): 0.70 / 1.0\n\n**Reasoning Context:**\n- Strong alignment with established goals and priorities.",
+    "scores": {
+      "opt_power_through": 0.6889725343320849,
+      "opt_defer": 0.6144232209737828,
+      "opt_short_break": 0.5867702871410736
+    },
+    "weights_used": {
+      "stress": 0.5800000000000001,
+      "productivity": 0.8,
+      "health": 0.4
+    },
+    "dimension_scores": {
+      "opt_power_through": {
+        "Logical Coherence": 0.7101123595505618,
+        "Adaptivity": 0.65,
+        "Transparency": 0.7,
+        "Innovation": 0.6822222222222223,
+        "Ethical Awareness": 0.7
+      },
+      "opt_defer": {
+        "Logical Coherence": 0.31235955056179776,
+        "Adaptivity": 0.65,
+        "Transparency": 0.7,
+        "Innovation": 0.8066666666666666,
+        "Ethical Awareness": 0.7
+      },
+      "opt_short_break": {
+        "Logical Coherence": 0.5573033707865168,
+        "Adaptivity": 0.65,
+        "Transparency": 0.7,
+        "Innovation": 0.36222222222222217,
+        "Ethical Awareness": 0.7
+      }
+    },
+    "reflection": null
+  }
+]

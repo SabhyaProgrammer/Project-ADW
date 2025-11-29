@@ -1,0 +1,102 @@
+[
+    {
+        "id": "scen_work_01",
+        "description": "Deadline approaching. User is fatigued but needs to finish a report.",
+        "context": {
+            "fatigue": 0.8,
+            "deadline_pressure": 0.9,
+            "time_available": "low"
+        },
+        "goals": {
+            "productivity": 0.8,
+            "health": 0.4
+        },
+        "options": [
+            {
+                "id": "opt_power_through",
+                "name": "Power Through",
+                "domain": "work",
+                "features": {
+                    "productivity": 0.9,
+                    "health": 0.2,
+                    "stress": 0.8
+                },
+                "description": "Work non-stop for 2 hours to finish."
+            },
+            {
+                "id": "opt_short_break",
+                "name": "Take Short Break",
+                "domain": "work",
+                "features": {
+                    "productivity": 0.6,
+                    "health": 0.7,
+                    "stress": 0.4
+                },
+                "description": "Rest for 15 mins, then work."
+            },
+            {
+                "id": "opt_defer",
+                "name": "Defer to Tomorrow",
+                "domain": "work",
+                "features": {
+                    "productivity": 0.1,
+                    "health": 0.9,
+                    "stress": 0.2
+                },
+                "description": "Sleep now, wake up early."
+            }
+        ]
+    },
+    {
+        "id": "scen_travel_01",
+        "description": "Planning a weekend trip. Budget is tight, but want relaxation.",
+        "context": {
+            "budget_constraint": "high",
+            "weather": "sunny",
+            "companions": 2
+        },
+        "goals": {
+            "cost": 0.9,
+            "relaxation": 0.7,
+            "adventure": 0.3
+        },
+        "options": [
+            {
+                "id": "opt_camping",
+                "name": "Camping Nearby",
+                "domain": "travel",
+                "features": {
+                    "cost": 0.9,
+                    "relaxation": 0.6,
+                    "adventure": 0.8,
+                    "comfort": 0.3
+                },
+                "description": "Drive to local state park. Cheap and outdoorsy."
+            },
+            {
+                "id": "opt_hotel",
+                "name": "Luxury Hotel",
+                "domain": "travel",
+                "features": {
+                    "cost": 0.1,
+                    "relaxation": 1.0,
+                    "adventure": 0.2,
+                    "comfort": 1.0
+                },
+                "description": "Stay in the city at a 5-star hotel."
+            },
+            {
+                "id": "opt_airbnb",
+                "name": "Budget Airbnb",
+                "domain": "travel",
+                "features": {
+                    "cost": 0.6,
+                    "relaxation": 0.7,
+                    "adventure": 0.5,
+                    "comfort": 0.7
+                },
+                "description": "Rent a small cabin an hour away."
+            }
+        ]
+    }
+]

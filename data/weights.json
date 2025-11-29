@@ -1,0 +1,65 @@
+{
+  "restaurant": {
+    "domain": "restaurant",
+    "weights": {
+      "rating": 0.9,
+      "price": 0.7,
+      "distance": 0.6,
+      "ambiance": 0.4
+    },
+    "last_updated": "2025-11-23T23:18:08.119782",
+    "learning_rate": 0.1
+  },
+  "movie": {
+    "domain": "movie",
+    "weights": {
+      "rating": 0.7,
+      "genre_match": 0.9,
+      "year": 0.3,
+      "duration": 0.4
+    },
+    "last_updated": "2025-11-23T23:18:08.119831",
+    "learning_rate": 0.1
+  },
+  "product": {
+    "domain": "product",
+    "weights": {
+      "price": 0.1500000000000001,
+      "rating": 0.14999999999999997,
+      "durability": 0.20000000000000004,
+      "brand_reputation": 0.14999999999999997
+    },
+    "last_updated": "2025-11-23T23:34:42.534044",
+    "learning_rate": 0.1
+  },
+  "travel": {
+    "domain": "travel",
+    "weights": {
+      "cost": 0.7,
+      "safety": 0.9,
+      "activities": 0.6,
+      "weather": 0.5
+    },
+    "last_updated": "2025-11-23T23:18:08.119850",
+    "learning_rate": 0.1
+  },
+  "work": {
+    "domain": "work",
+    "weights": {
+      "stress": 0.5800000000000001,
+      "productivity": 0.6600000000000001,
+      "health": 0.6600000000000001
+    },
+    "last_updated": "2025-11-24T00:17:27.235958",
+    "learning_rate": 0.1
+  },
+  "custom": {
+    "domain": "custom",
+    "weights": {
+      "productivity": 0.5,
+      "health": 0.5
+    },
+    "last_updated": "2025-11-24T00:17:09.320449",
+    "learning_rate": 0.1
+  }
+}

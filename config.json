@@ -1,0 +1,46 @@
+{
+  "personality": {
+    "name": "Logos",
+    "type": "Symbolic Reasoner",
+    "description": "Logic based system using rules, predictions, and inference trees.",
+    "traits": [
+      "Logical",
+      "Axiomatic",
+      "Predictive",
+      "Explicit"
+    ],
+    "verbosity": "high",
+    "tone": "Formal, Deductive"
+  },
+  "learning": {
+    "default_learning_rate": 0.1,
+    "min_weight": 0.1,
+    "max_weight": 1.0
+  },
+  "initial_weights": {
+    "restaurant": {
+      "rating": 0.8,
+      "price": 0.6,
+      "distance": 0.5,
+      "ambiance": 0.4
+    },
+    "movie": {
+      "rating": 0.7,
+      "genre_match": 0.9,
+      "year": 0.3,
+      "duration": 0.4
+    },
+    "product": {
+      "price": 0.8,
+      "rating": 0.7,
+      "durability": 0.6,
+      "brand_reputation": 0.5
+    },
+    "travel": {
+      "cost": 0.7,
+      "safety": 0.9,
+      "activities": 0.6,
+      "weather": 0.5
+    }
+  }
+}
