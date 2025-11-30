@@ -107,5 +107,4 @@ Data is stored in `herbs_data.json` in a human-readable JSON format.
 
 Contributions are welcome! If you have suggestions for improvements or new features (like search functionality or export to CSV), feel free to fork the repository and submit a pull request.
 
----
-*Generated for the Herb Inventory System Project.*
+
