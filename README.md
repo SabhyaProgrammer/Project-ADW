@@ -73,7 +73,7 @@ The system is built upon **twelve essential elements** that enable autonomous le
 ## 📐 System Architecture
 
 ```mermaid
-graph TB
+graph TD
     A[Input] --> B[Adaptive Input Layer]
     B --> C[Drift Detection]
     C --> D[Attention Mechanism]
